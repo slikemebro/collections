@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CustomLinkedList"},{"p":"<Unnamed>","l":"CustomLinkedList.Element"}];updateSearchResults();
